@@ -5,7 +5,8 @@
 int main(void)
 {
     int num1, num2, suma;
-    p("Vanos a hacer una suma");
+    p("Vamos a hacer una suma");
+    p("Vamos a hacer una suma");
     p("ingrese un valor: ");
     s("%d", &num1);
     p("ingrese otro valor: ");
